@@ -2,6 +2,8 @@
 
 A Python-based accounting tool designed for ease of use and functionality. Developed by Gabriele Lo Cascio, this software replaces legacy MS-DOS accounting programs with a modern, feature-rich interface.
 
+![MainMenu.PNG](./MainMenu.PNG)
+
 ## Features
 
 - **Main Class (`Cashier`)**: Acts as the core of the application, managing other components.
